@@ -1,0 +1,85 @@
+Primality test using 6k+-1 optimization.
+The number is, n = 7919
+Figured it out in 0.0 seconds
+7919 is a prime number
+
+Programiz algo
+The number is, n = 7919
+Figured it out in 0.0009980201721191406 seconds
+7919 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 8191
+Figured it out in 0.0 seconds
+8191 is a prime number
+
+Programiz algo
+The number is, n = 8191
+Figured it out in 0.0 seconds
+8191 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 131071
+Figured it out in 0.0 seconds
+131071 is a prime number
+
+Programiz algo
+The number is, n = 131071
+Figured it out in 0.012961149215698242 seconds
+131071 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 524287
+Figured it out in 0.0009989738464355469 seconds
+524287 is a prime number
+
+Programiz algo
+The number is, n = 524287
+Figured it out in 0.03187918663024902 seconds
+524287 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 6700417
+Figured it out in 0.0 seconds
+6700417 is a prime number
+
+Programiz algo
+The number is, n = 6700417
+Figured it out in 0.17253971099853516 seconds
+6700417 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 2147483647
+Figured it out in 0.002996206283569336 seconds
+2147483647 is a prime number
+
+Programiz algo
+The number is, n = 2147483647
+Figured it out in 97.71318817138672 seconds
+2147483647 is a prime number
+
+
+
+Primality test using 6k+-1 optimization.
+The number is, n = 999999000001
+Figured it out in 0.0708003044128418 seconds
+999999000001 is a prime number
+
+Programiz algo
+The number is, n = 999999000001
+Traceback (most recent call last):
+  File "D:/tejas/Documents/GitHub/Code_of_Codswallop/Python_Programs/Prime_Number/is_n_prime.py", line 40, in <module>
+    is_prime_programiz(num)
+  File "D:/tejas/Documents/GitHub/Code_of_Codswallop/Python_Programs/Prime_Number/is_n_prime.py", line 10, in is_prime_programiz
+    if (n % i) == 0:
+KeyboardInterrupt
